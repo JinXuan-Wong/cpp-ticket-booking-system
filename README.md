@@ -115,24 +115,26 @@ Prevents:
 ### Compile:
 ```bash
 g++ G3-WongJinXuan.cpp -o ticket_system
+```
 
 ### Run:
 ```bash
 ./ticket_system
+```
 
 ### Login credentials:
 Username: user1  
 Password: password
 
 ### 📌 Example Workflow
-Login
-View seat layout
-Select ticket category
-Choose seats
-Make payment
-Print receipt
-Generate tickets
-View sales report
+- Login
+- View seat layout
+- Select ticket category
+- Choose seats
+- Make payment
+- Print receipt
+- Generate tickets
+- View sales report
 
 ### 👤 Author
 
