@@ -59,6 +59,9 @@ Displays:
 - Number of customers  
 - Includes simple text-based bar chart visualization
 
+![Receipt](sample.png)
+![Tickets](sample2.png)
+
 ---
 
 ## 🏗️ System Structure
